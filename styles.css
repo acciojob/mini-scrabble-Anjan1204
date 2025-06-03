@@ -1,2 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+}
 
-/* Your CSS Code here. */
+input {
+  padding: 10px;
+  font-size: 18px;
+  width: 300px;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: #333;
+  font-size: 20px;
+}
